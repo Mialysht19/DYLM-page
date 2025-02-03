@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Will you be my Valentine?</title>
+    <title>To:maaboyAimal  Do you love me?</title>
     <style>
         body {
             text-align: center;
@@ -50,7 +50,7 @@
 <body>
 
     <img src="https://media.tenor.com/0V2P1IwANsMAAAAi/cute-love.gif">
-    <h2>Will you be my Valentine? 💕</h2>
+    <h2>Do you love me? 💕</h2>
 
     <button class="btn" id="yes">Yes 💖</button>
     <button class="btn" id="no">No 😢</button>
@@ -77,7 +77,7 @@
         });
 
         yesButton.addEventListener("click", function() {
-            alert("Yay! See you on Valentine’s Day! ❤️");
+            alert("Yay! Love you too Seng Muah! ❤️");
             startConfetti();
             loveSong.play();
         });
